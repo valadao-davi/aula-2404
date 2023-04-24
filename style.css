@@ -1,11 +1,14 @@
 *{
-    background-color: aqua
+    background-color: aqua;
+    align-items: center;
 }
 body{
     display: flex;
     background-color: blue;
     width: 900px;
     height: 700px;
+    align-items: center;
+    margin: auto;
 }
 h1{
     color: brown;
